@@ -1,6 +1,6 @@
 # HelloKotlin
 
-#Setting up a new git repository follow below steps 
+# Setting up a new git repository follow below steps 
 
 * Create a new repository in git and copy the ssh details
 
