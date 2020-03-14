@@ -1,4 +1,4 @@
-# HelloKotlin
+# HelloKotlin.
 
 # Setting up a new git repository follow below steps 
 
